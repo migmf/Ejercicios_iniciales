@@ -6,6 +6,7 @@
 	</head>
 	<body>
 	<?php
+        //Esto es un comentario de prueba para la subida de archivos a github
 		$a = 1;
 		$b = 2;
 		prueba();
