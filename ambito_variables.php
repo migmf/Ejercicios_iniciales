@@ -10,7 +10,7 @@
 		$a = 1;
 		$b = 2;
 		prueba();
-		
+	//Esto es la funcion prueba para hacer una serie de comprobaciones	
 	function prueba() {
 		global $a;
 		$c = $a;
